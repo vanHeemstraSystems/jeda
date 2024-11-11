@@ -1,8 +1,8 @@
-jeda
+विराम
 
 # विराम
 
-> Jeda.ai: एआई फाउंडेशन मॉडल के साथ सुंदर दृश्य उत्पन्न करके विचार, विचार-मंथन, रणनीति और योजना के लिए मल्टीमॉडल एआई ऑनलाइन व्हाइटबोर्ड की शक्ति के साथ जेनरेटिव व्हाइटबोर्ड एआई।
+> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
 
 -   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
@@ -12,7 +12,7 @@ jeda
 
 मूलपाठ
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
