@@ -6,7 +6,7 @@
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **执行摘要**
 
@@ -26,4 +26,4 @@
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
