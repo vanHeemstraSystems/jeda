@@ -8,7 +8,7 @@
 -   [संदर्भ](./REFERENCES.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
 मूलपाठ
 
