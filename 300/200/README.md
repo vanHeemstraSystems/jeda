@@ -1,3 +1,3 @@
 # 200 - ✏️ AI Note Taking
 
-MORE
+See [AI Note Taking](https://www.jeda.ai/visual-ai-note-taking)
