@@ -1,12 +1,12 @@
 pausa
 
-# Jeda
+# Pausa
 
-> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
+> Jeda.ai: IA de pizarra generativa con el poder de la pizarra en línea de IA multimodal para la ideación, la lluvia de ideas, la estrategia y la planificación mediante la generación de hermosas imágenes con modelos básicos de IA.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 
 **Resumen ejecutivo**
 
@@ -16,9 +16,9 @@ Texto
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
-See [README.md](./200/README.md)
+Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
