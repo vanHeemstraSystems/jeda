@@ -1,4 +1,4 @@
-jeda
+pauze
 
 # Pauze
 
@@ -14,7 +14,7 @@ Tekst
 
 ## 100 - Inleiding
 
-Zien[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Vereisten
 
