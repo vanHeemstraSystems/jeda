@@ -10,7 +10,7 @@
 
 **ملخص تنفيذي**
 
-Text
+نص
 
 ## 100- مقدمة
 
@@ -26,4 +26,4 @@ Text
 
 ## 400 - الخاتمة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
