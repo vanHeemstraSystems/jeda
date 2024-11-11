@@ -1,4 +1,4 @@
-jeda
+pausa
 
 # Pausa
 
@@ -6,7 +6,7 @@ jeda
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 
 **Resumen ejecutivo**
 
@@ -18,9 +18,9 @@ Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
-See [README.md](./200/README.md)
+Ver[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Construyendo nuestra aplicación
 
 Ver[README.md](./300/README.md)
 
