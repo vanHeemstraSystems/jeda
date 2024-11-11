@@ -71,7 +71,7 @@ Next choose **Art - generate a unique art** as the output.
 
 Now click **Generate** to execute the prompt for a Mockup of this wireframe.
 
-== IMAGE GOES HERE ==
+![image](https://github.com/user-attachments/assets/f3a57390-dbf2-4cb3-8a06-6bfe2f310313)
 
 Next, prompt ```Create a photorealistic mockup of this wireframe for a tablet screen.``` and click **Generate**.
 
