@@ -14,9 +14,9 @@ Texte
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - Requirements
 
 Voir[README.md](./200/README.md)
 
