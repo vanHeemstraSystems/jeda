@@ -57,7 +57,9 @@ Modify the wireframe as you see fit, by answering the questions that appear if y
 
 Now click **Generate**.
 
+![image](https://github.com/user-attachments/assets/05056e47-313d-4496-bbb9-5b27e1490f12)
 
+Above wireframe is a new version, now including the answers to the questions for a more purpose-driven concept, such as the button ```Start building a threat model```.
 
 Now prompt for a Mockup of this wireframe, by entering this request in the dialogue box along the bottom:
 
