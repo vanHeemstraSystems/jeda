@@ -1,8 +1,8 @@
-Repository-Name
+jeda
 
-# Repository-Name
+# Pause
 
-> Slugline
+> Jeda.ai: Generative Whiteboard-KI mit der Leistungsfähigkeit multimodaler KI. Online-Whiteboard für Ideenfindung, Brainstorming, Strategie und Planung durch Generierung wunderschöner Visuals mit KI-Grundlagenmodellen.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
