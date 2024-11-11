@@ -4,7 +4,7 @@ pausa
 
 > Jeda.ai: IA de pizarra generativa con el poder de la pizarra en línea de IA multimodal para la ideación, la lluvia de ideas, la estrategia y la planificación mediante la generación de hermosas imágenes con modelos básicos de IA.
 
--   [Glosario](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
 -   [Documentación](./DOCUMENTATION.md)
 
