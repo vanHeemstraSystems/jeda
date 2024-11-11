@@ -1,8 +1,8 @@
-jeda
+Pause
 
 # Pause
 
-> Jeda.ai: Generative Whiteboard-KI mit der Leistungsfähigkeit multimodaler KI. Online-Whiteboard für Ideenfindung, Brainstorming, Strategie und Planung durch Generierung wunderschöner Visuals mit KI-Grundlagenmodellen.
+> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
@@ -14,7 +14,7 @@ Text
 
 ## 100 - Einführung
 
-Sehen[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
