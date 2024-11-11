@@ -73,7 +73,7 @@ Now click **Generate** to execute the prompt for a Mockup of this wireframe.
 
 ![image](https://github.com/user-attachments/assets/f3a57390-dbf2-4cb3-8a06-6bfe2f310313)
 
-Next, prompt ```Create a photorealistic mockup of this wireframe for a tablet screen.``` and click **Generate**.
+Next, prompt ```Create a photorealistic mockup of this wireframe for a tablet computer screen.``` and click **Generate**.
 
 == IMAGE GOES HERE ==
 
