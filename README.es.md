@@ -1,8 +1,8 @@
-nombre-repositorio
+jeda
 
-# Nombre del repositorio
+# Pausa
 
-> línea de bala
+> Jeda.ai: IA de pizarra generativa con el poder de la pizarra en línea de IA multimodal para la ideación, la lluvia de ideas, la estrategia y la planificación mediante la generación de hermosas imágenes con modelos básicos de IA.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
@@ -26,4 +26,4 @@ Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
-Ver[README.md](./400/README.md)
+See [README.md](./400/README.md)
