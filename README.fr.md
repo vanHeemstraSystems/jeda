@@ -8,7 +8,7 @@ pause
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
