@@ -1,8 +1,8 @@
-nom du référentiel
+pause
 
-# Nom du référentiel
+# Pause
 
-> Slugline
+> Jeda.ai : IA de tableau blanc génératif avec la puissance du tableau blanc en ligne d'IA multimodale pour l'idéation, le brainstorming, la stratégie et la planification en générant de superbes visuels avec des modèles de base d'IA.
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
@@ -16,13 +16,13 @@ Texte
 
 Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
