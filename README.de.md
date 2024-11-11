@@ -12,7 +12,7 @@ Pause
 
 Text
 
-## 100 - Introduction
+## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
@@ -26,4 +26,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
-See [README.md](./400/README.md)
+Sehen[README.md](./400/README.md)
