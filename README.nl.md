@@ -8,7 +8,7 @@ pauze
 -   [Referenties](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Tekst
 
