@@ -2,7 +2,7 @@ pause
 
 # Pause
 
-> Jeda.ai : IA de tableau blanc génératif avec la puissance du tableau blanc en ligne d'IA multimodale pour l'idéation, le brainstorming, la stratégie et la planification en générant de superbes visuels avec des modèles de base d'IA.
+> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
