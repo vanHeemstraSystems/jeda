@@ -1,5 +1,7 @@
 # 300 - Building Our Application
 
+![image](https://github.com/user-attachments/assets/1516827b-7595-418a-8334-6f63505a88f5)
+
 ## 100 - 🔆  AI Template Analysis
 
 See [README.md](./100/README.md)
