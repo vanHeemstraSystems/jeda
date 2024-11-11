@@ -2,15 +2,15 @@ pauze
 
 # Pauze
 
-> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
+> Jeda.ai: Generatieve Whiteboard AI met de kracht van multimodale AI Online Whiteboard voor ideevorming, brainstorming, strategie en planning door prachtige visuals te genereren met AI-basismodellen.
 
 -   [Glossarium](./GLOSSARY.md)
--   [References](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Referenties](./REFERENCES.md)
+-   [Documentatie](./DOCUMENTATION.md)
 
-**Samenvatting**
+**Executive Summary**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
@@ -20,7 +20,7 @@ Zien[README.md](./100/README.md)
 
 Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
