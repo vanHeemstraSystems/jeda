@@ -10,13 +10,13 @@
 
 **ملخص تنفيذي**
 
-Text
+نص
 
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
@@ -26,4 +26,4 @@ See [README.md](./100/README.md)
 
 ## 400 - الخاتمة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
