@@ -8,7 +8,7 @@
 -   [參考](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
-**執行摘要**
+**Executive Summary**
 
 文字
 
