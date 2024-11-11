@@ -61,6 +61,10 @@ Now click **Generate**.
 
 Above wireframe is a new version, now including the answers to the questions for a more purpose-driven concept, such as the button ```Start building a threat model```.
 
+You can modify the elements of the mockup by use of the toolbox on the left top corner:
+
+![image](https://github.com/user-attachments/assets/8aa880b3-0bbf-4582-a70f-6f8f766b65c5)
+
 Now prompt for a Mockup of this wireframe, by entering this request in the dialogue box along the bottom:
 
 ```
