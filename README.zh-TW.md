@@ -2,11 +2,11 @@
 
 # 暫停
 
-> Jeda.ai：生成式白板人工智慧，具有多模式人工智慧線上白板的強大功能，透過人工智慧基礎模型產生漂亮的視覺效果，用於構思、腦力激盪、策略和規劃。
+> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
--   [文件](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **執行摘要**
 
@@ -22,7 +22,7 @@
 
 ## 300 - 建立我們的應用程式
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 結論
 
