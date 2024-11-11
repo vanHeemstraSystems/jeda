@@ -26,34 +26,34 @@ Modify the wireframe as you see fit, by answering the questions that appear if y
 
 - AI Question: **What type of service does Threagile Builder offer?**
 - Our Answer: ```Threat model design with a block-based low-code user interface that exports to a YAML file for use in Threagile.```
-
+__
 - AI Question: **Who is the target audience for Threagile Builder?**
 - Our Answer: ```Software Engineers who want to get insights in the security vulnerabilities of the source code of their software applications.```
-
+__
 - AI Question: **What is the primary goal of the Welcome page?**
 - Our Answer: ```To make the Software Engineer feel welcome and show what all Threagile Builder can do for him or her to provide insights in security vulnerabilities in his or her source code repositories.```
-
+__
 - AI Question: **What specific features does Threagile Builder highlight?**
 - Our Answer: ```Threagile Builder will generate a YAML file that is used by Threagile to generate a report of well-known security vulnerabilities such as the Top Ten of OWASP.```
-
+__
 - AI Question: **Are there any specific design styles or themes you want to emphasize?**
 - Our Answer: ```Modern and minimalist.```
-
+__
 - AI Question: **What key messages should be communicated on the Welcome page?**
 - Our Answer: ```Easy to use and low-code.```
-
+__
 - AI Question: **Do you have any branding guidelines or existing materials to follow?**
 - Our Answer: ```Follow the style and colors of Threagile.```
-
+__
 - AI Question: **What call-to-action do you want to include?**
 - Our Answer: ```Start building a threat model by drag and drop of blocks.```
-
+__
 - AI Question: **More context**
 - Our Answer: ```Threat modeling in cyber security is a means to detect security vulnerabilities in software source code. It helps to mitigate risks by addresing those vulnerabilities.```
-
+__
 - AI Question: **Data**
 - Our Answer: ```Threagile. OWASP Top Ten. Blockly. YAML.```
-
+__
 Now click **Generate**.
 
 
