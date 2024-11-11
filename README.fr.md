@@ -1,4 +1,4 @@
-pause
+jeda
 
 # Pause
 
