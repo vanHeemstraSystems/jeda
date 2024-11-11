@@ -4,11 +4,11 @@ pause
 
 > Jeda.ai : IA de tableau blanc génératif avec la puissance du tableau blanc en ligne d'IA multimodale pour l'idéation, le brainstorming, la stratégie et la planification en générant de superbes visuels avec des modèles de base d'IA.
 
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
 -   [Documentation](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
@@ -22,7 +22,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-Voir[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusion
 
