@@ -63,14 +63,22 @@ Above wireframe is a new version, now including the answers to the questions for
 
 You can modify the elements of the mockup by use of the toolbox on the left top corner:
 
-![image](https://github.com/user-attachments/assets/ef18e6ae-6aab-426a-ba51-dcfef59bda46)
+![image](https://github.com/user-attachments/assets/4de1a380-1cfd-4c1e-b20f-b71af55d0eca)
 
-Zoom out until you se the full wireframe, choose the selection tool and select the whole wireframe. On the righthand side the menu will show **AI**. Choose this to open the AI chose dialogue and enter the prompt ```Create a photorealistic mockup of this wireframe for a tablet, smartphone, and desktop screen.```. 
+Zoom out until you se the full wireframe, choose the selection tool and select the whole wireframe. On the righthand side the menu will show **AI**. Choose this to open the AI chose dialogue and enter the prompt ```Create a photorealistic mockup of this wireframe for a desktop computer screen.```. 
 
 Next choose **Art - generate a unique art** as the output.
 
 Now click **Generate** to execute the prompt for a Mockup of this wireframe.
 
+== IMAGE GOES HERE ==
 
+Next, prompt ```Create a photorealistic mockup of this wireframe for a tablet screen.``` and click **Generate**.
+
+== IMAGE GOES HERE ==
+
+Next, prompt ```Create a photorealistic mockup of this wireframe for a smartphone screen.``` and click **Generate**.
+
+== IMAGE GOES HERE ==
 
 MORE
