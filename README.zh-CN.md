@@ -1,8 +1,8 @@
-存储库名称
+暂停
 
-# 存储库名称
+# 暂停
 
-> 斯拉格莱恩
+> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
