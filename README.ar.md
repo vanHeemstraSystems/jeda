@@ -2,7 +2,7 @@
 
 # يوقف
 
-> Jeda.ai: الذكاء الاصطناعي للسبورة البيضاء التوليدية مع قوة السبورة البيضاء عبر الإنترنت للذكاء الاصطناعي متعددة الوسائط للتفكير والعصف الذهني والاستراتيجية والتخطيط من خلال إنشاء مرئيات جميلة باستخدام نماذج أساس الذكاء الاصطناعي.
+> Jeda.ai: Generative Whiteboard AI with the power of multimodal AI Online Whiteboard for ideation, brainstorming, strategy and planning by generating beautiful Visuals with AI foundation models.
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
@@ -24,6 +24,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
