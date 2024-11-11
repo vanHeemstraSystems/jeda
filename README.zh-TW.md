@@ -1,4 +1,4 @@
-jeda
+暫停
 
 # 暫停
 
@@ -22,7 +22,7 @@ jeda
 
 ## 300 - 建立我們的應用程式
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 結論
 
