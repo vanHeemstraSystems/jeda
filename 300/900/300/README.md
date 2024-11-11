@@ -79,6 +79,6 @@ Next, prompt ```Create a photorealistic mockup of this wireframe for a tablet co
 
 Next, prompt ```Create a photorealistic mockup of this wireframe for a smartphone screen.``` and click **Generate**.
 
-== IMAGE GOES HERE ==
+== IMAGE GOES HERE: RAN OUT OF FREE AI GENERATION FOR THE DAY : ) ==
 
 MORE
